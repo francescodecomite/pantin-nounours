@@ -14,11 +14,7 @@ Par esai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillèr
 - Construire une crémaillère, vérifier à l'oeil qu'elle marche sur les roues dentées, la dupliquer et en faire les deux cotés d'un rectangle dans lequel on creuse une fente qui servira de guide. 
 - Le reste se fera à la main chez moi. 
 
-30/08/2026 : c'est fini. 
+30/08/2026 : c'est fini. Il y a quelques images et des vidéos, c'est trop galère de les integrer au Readme, allez les ouvrir vous-même. 
 
 ![Texte alternatif](./vudedos.jpg "Titre optionnel")
 
-<video controls width="100%">
-  <source src="./video1.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de vidéos.
-</video>
