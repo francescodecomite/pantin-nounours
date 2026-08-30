@@ -17,7 +17,6 @@ Par esai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillèr
 30/08/2026 : c'est fini. 
 
 ![Texte alternatif](./vudedos.jpg "Titre optionnel")
-![Texte alternatif](./video1.mp4 "Titre optionnel")
 
 <video controls width="100%">
   <source src="./video1.mp4" type="video/mp4">
