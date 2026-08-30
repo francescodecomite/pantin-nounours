@@ -7,7 +7,7 @@ J'ai rien trouvé dans la doc, même en élargissant aux pros des engrenages. Il
 pas fixer le module dans les paramètres des engrenages de Inkscape. 
 Ah, au fait, les engrenages sont dans Extensions > Rendu
 
-Par esai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillère qui est le double de celui de la roue dentée.
+Par essai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillère qui est le double de celui de la roue dentée.
 
 ## Réalisation pratique
 - Construire une roue dentée, en couper la moitié et y coller des droites et des courbes de Bezier pour les bras et les jambes.
