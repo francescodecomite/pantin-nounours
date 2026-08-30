@@ -13,3 +13,5 @@ Par esai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillèr
 - Construire une roue dentée, en couper la moitié et y coller des droites et des courbes de Bezier pour les bras et les jambes.
 - Construire une crémaillère, vérifier à l'oeil qu'elle marche sur les roues dentées, la dupliquer et en faire les deux cotés d'un rectangle dans lequel on creuse une fente qui servira de guide. 
 - Le reste se fera à la main chez moi. 
+
+30/08/2026 : c'est fini. 
