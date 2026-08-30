@@ -15,3 +15,5 @@ Par esai-erreur, ça a l'air de marcher quand on prend un pas de la crémaillèr
 - Le reste se fera à la main chez moi. 
 
 30/08/2026 : c'est fini. 
+
+![Texte alternatif](./vudedos.jpeg "Titre optionnel")
